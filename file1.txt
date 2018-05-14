@@ -5,6 +5,7 @@ blue
 red
 green
 purple
+pink
 avengers
 DCU
 MCU

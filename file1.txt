@@ -1,0 +1,9 @@
+this is a sample file for understanding changes in git
+so adding some random words
+sky
+blue
+red
+green
+avengers
+DCU
+MCU
